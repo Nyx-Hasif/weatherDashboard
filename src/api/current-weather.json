@@ -1,0 +1,32 @@
+{
+    "lat": "5.33333N",
+    "lon": "102.0E",
+    "elevation": 83,
+    "timezone": "Asia/Kuala_Lumpur",
+    "units": "metric",
+    "current": {
+        "icon": "rain",
+        "icon_num": 11,
+        "summary": "Rain",
+        "temperature": 25.0,
+        "feels_like": 28.2,
+        "wind_chill": 26.8,
+        "dew_point": 24.8,
+        "wind": {
+            "speed": 0.5,
+            "gusts": 1.0,
+            "angle": 236,
+            "dir": "SW"
+        },
+        "precipitation": {
+            "total": 1.2,
+            "type": "rain"
+        },
+        "cloud_cover": 100,
+        "ozone": 271.89,
+        "pressure": 1012,
+        "uv_index": 0.0,
+        "humidity": 98,
+        "visibility": 24.14
+    }
+}
