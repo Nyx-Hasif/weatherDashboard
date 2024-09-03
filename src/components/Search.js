@@ -1,4 +1,4 @@
-import "../styles\\components\\Search.scss";
+import "../styles/components/Search.scss";
 import { SearchPlaces } from "../api";
 import { useState, useContext } from "react";
 import WeatherContext from "../context/weather.context";
